@@ -1,137 +1,117 @@
-<p align="center">
-  <img src="https://github.com/JaleedAhmad/JaleedAhmad/blob/main/Cat.gif?raw=true" alt="Banner GIF" />
-</p>
-
-<h1 align="center">Hey there 👋, I'm Junaid Ameer Khan</h1>
-<h3 align="center">Computer Science Student | Full Stack Developer | AI & Computer Vision Enthusiast</h3>
-
----
-
-### 🚀 About Me
-
-🎓 **BS Computer Science** student at **Namal University Mianwali** (2022 – 2026)  
-💻 Full Stack Developer with strong expertise in **MERN Stack**  
-🤖 Passionate about **Computer Vision, AI-powered systems, and scalable web applications**
-
-🔍 Experienced in building **end-to-end solutions** — from system design to deployment  
-🌍 Worked with **local & international clients** on real-world production systems
-
----
-
-### 🧠 Core Expertise
-
-- Full Stack Web Development (MERN)
-- Computer Vision & AI (Face Recognition, Pose Estimation)
-- REST APIs & Scalable Architectures
-- E-Commerce & Admin Dashboards
-- Deployment & Performance Optimization
-
----
-
-### 🧰 Technologies & Tools
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/YOLO-FF6F00?style=for-the-badge&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FaceNet-673AB7?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/InsightFace-3F51B5?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-</p>
-
----
-
-### 🔬 Featured Projects
-
-🚀 **FitZone – AI-Based Gym Monitoring System (FYP)**  
-🗓 *10/2025 – Present*  
-- Face recognition for attendance using **FaceNet & InsightFace**
-- Exercise tracking using **MediaPipe Pose**
-- Real-time monitoring dashboard  
-![Badge](https://img.shields.io/badge/Tech-Computer%20Vision-blue)
-
-🌐 **AICON – Academia Industry Collaboration Network**  
-🗓 *12/2025 – Present*  
-- National-level platform connecting universities & industries in Pakistan  
-- Role-based dashboards & collaboration tools  
-
-🛍 **GBone Apparel – Full E-Commerce Platform**  
-🗓 *12/2025 – 01/2026*  
-- Complete fashion e-commerce system  
-- Admin panel, payment integration, dashboards  
-
-📺 **OTT Reseller Platform**  
-🗓 *01/2025 – 02/2025*  
-- Admin-controlled OTT service selling platform  
-- Secure payments & customer management  
-
-👶 **Child Finder Hub**  
-🗓 *05/2025 – 08/2025*  
-- MERN app with **Flask-based facial recognition**
-- Real-time reporting for missing children  
-
-🎓 **University Club Management System**  
-🗓 *02/2025 – 07/2025*  
-- React + Firebase  
-- Admin approval & user management  
-
----
-
-### 💼 Experience
-
-**Web Application Intern — T4Tutorials**  
-🗓 *03/2024 – 09/2024*  
-- Developed MERN stack applications  
-- Built custom WordPress solutions  
-- Deployed & optimized apps on Hostinger  
-
----
-
-### 🏆 Certifications & Achievements
-
-🏅 **2nd Position** — Web Development Competition (COMSATS Vehari) — 2025  
-🤖 **Advanced AI Training Program** (2 Months) — 2025  
-💻 **Web Development Bootcamp** — Angela Yu (Udemy) — 2025  
-🥇 **Namal Hackathon (Coding)** — 5th Position — 2023  
-📘 **Web Application Course** — Meta Institute — 2023  
-🛠 **Hunarmand Naujawan Program** — Govt. College of Technology — 2023  
-
----
-
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats-one-bice.vercel.app/api?username=JaleedAhmad&theme=tokyonight&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JaleedAhmad&layout=compact&theme=tokyonight)
-
----
-
-### 🔥 Contribution Streak
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=JaleedAhmad&theme=tokyonight)](https://git.io/streak-stats)
-
----
-
-### 📫 Connect With Me
+<h1 align="center">Junaid Ameer Khan</h1>
+<h3 align="center">Software Engineer | Full Stack Developer</h3>
 
 <p align="center">
-  <a href="mailto:junaidameerkhan555@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
-  <a href="https://www.linkedin.com/in/junaid-ameer-khan/"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
-  <a href="https://github.com/JaleedAhmad"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
+Computer Science student with 1.5+ years of hands-on experience in Full Stack Development, Backend Engineering, and AI-powered applications. Experienced in building scalable software solutions through academic, freelance, internship, and client-based projects.
 </p>
 
 ---
 
-<p align="center">✨ Built with ❤️ by Junaid Ameer Khan — Computer Science Student ✨</p>
+## About Me
+
+* BS Computer Science student at Namal University (2022 – 2026)
+* 1.5+ years of experience in Full Stack Development
+* Strong interest in Software Engineering, Backend Systems, and AI-powered applications
+* Experience working on academic, freelance, and client-based projects
+* Passionate about building impactful software solutions and solving real-world problems
+
+---
+
+## Technical Skills
+
+### Programming Languages
+
+JavaScript • Python • SQL • C++
+
+### Frontend Development
+
+React.js • React Native • HTML5 • CSS3 • Tailwind CSS
+
+### Backend Development
+
+Node.js • Express.js • FastAPI • REST APIs • JWT Authentication • MVC Architecture
+
+### Databases
+
+MongoDB • MySQL • Firebase
+
+### Cloud & DevOps
+
+Microsoft Azure (Basic) • Linux • CI/CD (Basic) • Deployment
+
+### Tools & Platforms
+
+Git • GitHub • Postman • VS Code • WordPress • Burp Suite
+
+---
+
+## Featured Projects
+
+### FitZone – Vision-Based Gym Monitoring & Assistance
+
+* Developed an AI-powered gym monitoring system.
+* Achieved 85% face recognition accuracy at 18+ FPS.
+* Automated attendance, exercise tracking, and posture analysis.
+
+### OTT Reseller Platform
+
+* Built an OTT subscription platform supporting 500+ users.
+* Integrated authentication, payments, and role-based administration.
+* Optimized performance and user management workflows.
+
+### GBone Apparel – Full E-Commerce Platform
+
+* Developed a full-stack fashion e-commerce platform.
+* Implemented authentication, payments, and admin management.
+* Built scalable product and order management features.
+
+### AICON – Academia Industry Collaboration Network
+
+* Developed a multi-role collaboration platform.
+* Supported University, Industry, and Super Admin roles.
+* Implemented secure access control and data management.
+
+---
+
+## Experience
+
+### Web Developer Intern | T4Tutorials
+
+**March 2024 – September 2024**
+
+* Developed responsive websites and web applications.
+* Improved website performance, usability, and user experience.
+* Collaborated on debugging, maintenance, and feature enhancements.
+
+---
+
+## Achievements
+
+* 2nd Position – Web Development Competition (VSpark 2025)
+* 5th Position – Programming Competition (Namal Codex)
+
+---
+
+## Certifications
+
+* AI & Backend Development Training – Circular Byte Pvt. Ltd.
+* Web Development Bootcamp – Angela Yu (Udemy)
+
+---
+
+## GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JunaidKhanNiazii\&show_icons=true\&theme=github_dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JunaidKhanNiazii\&layout=compact\&theme=github_dark)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=JunaidKhanNiazii\&theme=github-dark-blue)](https://git.io/streak-stats)
+
+---
+
+## Connect With Me
+
+* Email: **[junaidameerkhan555@gmail.com](mailto:junaidameerkhan555@gmail.com)**
+* LinkedIn: **https://www.linkedin.com/in/junaid-ameer-khan/**
+* Portfolio: **https://junaidportfolio-black.vercel.app/**
+* GitHub: **https://github.com/JunaidKhanNiazii**
