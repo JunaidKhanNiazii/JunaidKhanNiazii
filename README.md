@@ -4,7 +4,7 @@
 
 # Junaid Ameer Khan
 
-### Software Engineer | Full Stack Developer
+### AI Engineer | Backend Developer
 
 Computer Science student with 1.5+ years of hands-on experience in Full Stack Development, Backend Engineering, and AI-powered applications. Experienced in building scalable software solutions through academic, freelance, internship, and client-based projects.
 
